@@ -1,7 +1,0 @@
-date,location,commodity,metric,value,unit,comparison,source,source_url
-2025-03,Tehran Market,Rice,year_over_year_change,60,percent,vs March 2024,FAO GIEWS country brief archive summary,https://www.fao.org/giews/countrybrief/country/IRN/pdf_archive/IRN_Archive.pdf
-2025-03,Tehran Market,Wheat flour,year_over_year_change,18,percent,vs March 2024,FAO GIEWS country brief archive summary,https://www.fao.org/giews/countrybrief/country/IRN/pdf_archive/IRN_Archive.pdf
-2025-10,Tehran Market,Wheat flour,year_over_year_change,50,percent,vs October 2024,FAO GIEWS country brief,https://www.fao.org/giews/countrybrief/country.jsp?code=IRN&lang=en
-2026-02,Tehran Market,Wheat flour,price_level,520000,IRR_per_kg,February 2026 spot price,FAO GIEWS price warning published 2026-03-12,https://www.fao.org/giews/food-prices/price-warnings/detail/fr/c/1757884/
-2026-02,Tehran Market,Wheat flour,year_over_year_change,200,percent,vs February 2025,FAO GIEWS price warning published 2026-03-12,https://www.fao.org/giews/food-prices/price-warnings/detail/fr/c/1757884/
-2026-02,Tehran Market,Rice,year_over_year_change,300,percent,vs February 2025,FAO GIEWS price warning published 2026-03-12,https://www.fao.org/giews/food-prices/price-warnings/detail/fr/c/1757884/
